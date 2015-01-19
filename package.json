@@ -1,0 +1,6 @@
+{
+  "registry": "npm",
+  "dependencies": {
+    "module": "^0.1.0"
+  }
+}
