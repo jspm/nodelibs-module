@@ -1,7 +1,7 @@
 {
   "main": "./module.js",
   "name": "jspm-nodelibs-module",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./module.js": {
       "node": "@node/module",
